@@ -13,8 +13,8 @@ I am 26 years old, I have an education in the field of entrepreneurship, trade a
 # Code Examples:
 
 # Education:
-* UX/UI design (mobios school courses)
-* HTML/CSS for beginers courses on the stepik.org
+* UX/UI design ([mobios school](https://mobios.school) courses)
+* HTML/CSS for beginers courses on the [stepik.org](stepik.org)
 # Languages:
 * Russian (Native)
 * Ukrainian (Native)
